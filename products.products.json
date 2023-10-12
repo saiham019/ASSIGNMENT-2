@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "65271d755238c4f104907cbb"
+  },
+  "name": "Shirt",
+  "price": 500,
+  "description": "very good shirt",
+  "published": true,
+  "category": "Man",
+  "createdAt": {
+    "$date": "2023-10-11T22:11:01.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T22:11:01.804Z"
+  },
+  "__v": 0
+}]
